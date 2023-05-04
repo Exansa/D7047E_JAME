@@ -24,3 +24,6 @@ Rapport (4-5 sidor article) - Alla
 #### Intressanta länkar
 Fruit maturity grading framework for small dataset using single image multi-object sampling and Mask R-CNN
 https://www.sciencedirect.com/science/article/pii/S2772375522000958
+
+Detection of Overall Fruit Maturity of Local Fruits using Convolutional Neural Networks Through Image Processing
+https://dl.acm.org/doi/10.1145/3366650.3366681
