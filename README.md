@@ -12,6 +12,8 @@ Preppa dataset - Arvid & Jacob
 
 Strukturera upp koden (klar ish) - Alex & Emanuel
 
+Använd CNNVis
+
 Bestäm evaluation metric: f1/accuracy?  
 Fixa transfer learning - Magnus
 
