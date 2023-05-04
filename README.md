@@ -17,7 +17,11 @@ Använd CNNVis
 Bestäm evaluation metric: f1/accuracy?  
 Fixa transfer learning - Magnus
 
-Live tracking med kamera - Alex  
+Extra features
+- Live tracking med kamera - Alex  
+- Klassificera flera frukter på samma bild
+
+
 Strukturera rapport - Emanuel  
 Presentation  
 Rapport (4-5 sidor article) - Alla
