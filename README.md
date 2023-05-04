@@ -10,7 +10,7 @@ Preppa dataset - Arvid & Jacob
 - Kombinera dataset med mognadsgrad/kvalitet?
 - Proprocess data (vilka transformationer)
 
-Strukturera upp koden (klar ish) - Alex
+Strukturera upp koden (klar ish) - Alex & Emanuel
 
 Bestäm evaluation metric: f1/accuracy?  
 Fixa transfer learning - Magnus
