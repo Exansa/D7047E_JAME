@@ -16,6 +16,6 @@ Bestäm evaluation metric: f1/accuracy?
 Fixa transfer learning - Magnus
 
 Live tracking med kamera - Alex  
-Strukturera rapport - Emanuel
-Presentation
+Strukturera rapport - Emanuel  
+Presentation  
 Rapport (4-5 sidor article) - Alla
