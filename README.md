@@ -12,7 +12,7 @@ Preppa dataset - Arvid & Jacob
 
 Strukturera upp koden (klar ish) - Alex
 
-Bestäm evaluation metric: f1/accuracy?
+Bestäm evaluation metric: f1/accuracy?  
 Fixa transfer learning - Magnus
 
 Live tracking med kamera - Alex  
