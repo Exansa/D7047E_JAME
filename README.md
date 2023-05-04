@@ -19,3 +19,8 @@ Live tracking med kamera - Alex
 Strukturera rapport - Emanuel  
 Presentation  
 Rapport (4-5 sidor article) - Alla
+
+
+#### Intressanta länkar
+Fruit maturity grading framework for small dataset using single image multi-object sampling and Mask R-CNN
+https://www.sciencedirect.com/science/article/pii/S2772375522000958
