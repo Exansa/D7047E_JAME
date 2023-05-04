@@ -27,3 +27,6 @@ https://www.sciencedirect.com/science/article/pii/S2772375522000958
 
 Detection of Overall Fruit Maturity of Local Fruits using Convolutional Neural Networks Through Image Processing
 https://dl.acm.org/doi/10.1145/3366650.3366681
+
+Fruit Ripeness Prediction Based on DNN Feature Induction from Sparse Dataset
+https://www.techscience.com/cmc/v69n3/44159
