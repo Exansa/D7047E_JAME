@@ -39,3 +39,8 @@ https://www.techscience.com/cmc/v69n3/44159
 
 #### Dataset 5 maj
 https://drive.google.com/file/d/15hFRMZECi5Hi7HA7LVvq86CxbmSRrqCH/view?usp=sharing
+
+#### Transformationer
+randomrotation
+normalize
+RandomPerspective (kanske)
