@@ -36,3 +36,6 @@ https://dl.acm.org/doi/10.1145/3366650.3366681
 
 Fruit Ripeness Prediction Based on DNN Feature Induction from Sparse Dataset
 https://www.techscience.com/cmc/v69n3/44159
+
+#### Dataset 5 maj
+https://drive.google.com/file/d/15hFRMZECi5Hi7HA7LVvq86CxbmSRrqCH/view?usp=sharing
