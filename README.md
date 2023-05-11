@@ -6,11 +6,12 @@ Research om hur andra har gjort - Magnus & Emanuel
 
 Preppa dataset - Arvid & Jacob
 - Gör en lista för alla möjliga dataset
-- Plocka bort onödiga grönsaker/frukter i Fruits360?
-- Kombinera dataset med mognadsgrad/kvalitet?
-- Proprocess data (vilka transformationer)
+- Plocka bort onödiga grönsaker/frukter i Fruits360? (klar)
+- Rutten/fräsch (klar)
+- Mognadsgrad
+- Proprocess data (vilka transformationer) (typ klar, under testing)
 
-Strukturera upp koden (klar ish) - Alex & Emanuel
+Strukturera upp koden (klar) - Alex & Emanuel
 
 Använd CNNVis
 
