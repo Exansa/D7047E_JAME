@@ -8,15 +8,15 @@ Preppa dataset - Arvid & Jacob
 - Gör en lista för alla möjliga dataset
 - Plocka bort onödiga grönsaker/frukter i Fruits360? (klar)
 - Rutten/fräsch (klar)
-- Mognadsgrad
+- Mognadsgrad (abort)
 - Proprocess data (vilka transformationer) (typ klar, under testing)
 
 Strukturera upp koden (klar) - Alex & Emanuel
 
 Använd CNNVis
 
-Bestäm evaluation metric: f1/accuracy?  
-Fixa transfer learning - Magnus
+Bestäm evaluation metric: accuracy, recall, precision (klar) 
+Fixa transfer learning - Magnus (klar)
 
 Extra features
 - Live tracking med kamera - Alex  
@@ -45,3 +45,6 @@ https://drive.google.com/file/d/15hFRMZECi5Hi7HA7LVvq86CxbmSRrqCH/view?usp=shari
 randomrotation
 normalize
 RandomPerspective (kanske)
+Zoom range
+Shear range
+Random block (kanske)
