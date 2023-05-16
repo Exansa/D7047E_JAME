@@ -1,6 +1,11 @@
 # D7047E_JAME
 Exercise and project group in advanced deep learning
 
+## Träning
+Exempel
+
+
+
 ### Project
 Research om hur andra har gjort - Magnus & Emanuel
 
