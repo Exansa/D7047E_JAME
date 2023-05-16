@@ -24,7 +24,7 @@ Zoom range = 0     &emsp; &ensp;   |Zoom range = 0    &emsp; &ensp;   |Zoom rang
 
 Om vi hinner klart dessa så kan vi fortsätta med mer kombinationer.
 
-I filen model_acc.txt så ser ni resultat för ImageNet->Fruits360->Quality. Som sagt så föreslår jag att vi inte kör på detta.
+I filen model_acc_old.txt så ser ni resultat för ImageNet->Fruits360->Quality. Som sagt så föreslår jag att vi inte kör på detta.
 
 
 
