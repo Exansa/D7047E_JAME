@@ -2,7 +2,30 @@
 Exercise and project group in advanced deep learning
 
 ## Träning
-Exempel
+Jag föreslår att vi jämför transfer learning från enbart ImageNet (ej fruits360) till fruit quality samt från fruits360 (ej ImageNet pre-trained) till fruit quality.
+
+Jag tycker även att vi inte bör använda rotation på quality datasetet eftersom det redan är roterade och translaterade bilder i det.
+
+Markera med en "✓" under det ni kör/kört.
+
+ImageNet -> Quality
+Batch size = 16       |Batch size = 16      |Batch size = 16      |Batch size = 16
+Learning rate = 1e-3  |Learning rate = 1e-4 |Learning rate = 1e-3 |Learning rate = 1e-3
+Shear range = 0       |Shear range = 0      |Shear range = 0.3    |Shear range = 0
+Zoom range = 0        |Zoom range = 0       |Zoom range = 0       |Zoom range = [1,2]
+
+
+Fruits360 -> Quality
+Batch size = 16       |Batch size = 16      |Batch size = 16      |Batch size = 16
+Learning rate = 1e-3  |Learning rate = 1e-4 |Learning rate = 1e-3 |Learning rate = 1e-3
+Shear range = 0       |Shear range = 0      |Shear range = 0.3    |Shear range = 0
+Zoom range = 0        |Zoom range = 0       |Zoom range = 0       |Zoom range = [1,2]
+
+
+Om vi hinner klart dessa så kan vi fortsätta med mer kombinationer.
+
+I filen model_acc.txt så ser ni resultat för ImageNet->Fruits360->Quality. Som sagt så föreslår jag att vi inte kör på detta.
+
 
 
 
