@@ -14,12 +14,12 @@ Batch size=16, Vertical+Horizontal flip, Rotation=0, Adam
 VGG-16 (ImageNet) + Quality  
 Learning rate = 1e-3 &nbsp; |Learning rate = 1e-3  |Learning rate = 1e-4  |Learning rate = 1e-4  
 Zoom range = 0    &emsp;  &ensp; |Zoom range = 0.3  &emsp;  &ensp; |Zoom range = 0  &emsp;  &ensp; |Zoom range = 0.3  
-✓ valAcc: 0.5771 &emsp; &emsp; &emsp; &emsp;  &emsp; ✓ &emsp; &emsp; &emsp;  &emsp;  &emsp;  ✓ valAcc: 0.7871
+
   
 VGG-16 (otränat) + Fruits360 -> Quality  
 Learning rate = 1e-3 &nbsp; |Learning rate = 1e-3  |Learning rate = 1e-4  |Learning rate = 1e-4  
 Zoom range = 0    &emsp;  &ensp; |Zoom range = 0.3  &emsp;  &ensp; |Zoom range = 0  &emsp;  &ensp; |Zoom range = 0.3  
-  ✓
+
   
 VGG-16 (otränat) + Quality  
 Learning rate = 1e-3 &nbsp; |Learning rate = 1e-3  |Learning rate = 1e-4  |Learning rate = 1e-4  
