@@ -24,8 +24,8 @@ Zoom range = 0    &emsp;  &ensp; |Zoom range = 0.3  &emsp;  &ensp; |Zoom range =
 VGG-16 (otränat) -> Quality  
 Learning rate = 1e-3 &nbsp; |Learning rate = 1e-3  |Learning rate = 1e-4  |Learning rate = 1e-4  
 Zoom range = 0    &emsp;  &ensp; |Zoom range = 0.3  &emsp;  &ensp; |Zoom range = 0  &emsp;  &ensp; |Zoom range = 0.3  
-
-
+  
+  
 Om vi hinner klart dessa så kan vi fortsätta med mer kombinationer.
 
 I filen model_acc_old.txt så ser ni resultat för ImageNet->Fruits360->Quality. Som sagt så föreslår jag att vi inte kör på detta.
