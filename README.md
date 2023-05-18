@@ -9,23 +9,20 @@ Jag tycker även att vi inte bör använda rotation på quality datasetet efters
 Markera med en "✓" under det ni kör/kört.
 
 ImageNet -> Quality  
-Batch size = 16 &emsp; &emsp;|Batch size = 16 &emsp; &emsp; |Batch size = 16 &emsp; &emsp; |Batch size = 16  
-Learning rate = 1e-3  |Learning rate = 1e-4 |Learning rate = 1e-3 &nbsp; |Learning rate = 1e-3  
-Shear range = 0     &emsp; &ensp;  |Shear range = 0   &emsp; &ensp;  |Shear range = 0.3   &emsp; &ensp; |Shear range = 0  
-Zoom range = 0   &emsp;  &ensp;   |Zoom range = 0    &emsp;  &ensp; |Zoom range = 0    &emsp;  &ensp; |Zoom range = 0.3  
- ✓&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;✓&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;✓
+Batch size = 16 &emsp; &emsp;|Batch size = 16 &emsp; &emsp; |Batch size = 16  |Batch size = 16 &emsp; &emsp; 
+Learning rate = 1e-3  |Learning rate = 1e-3 &nbsp; |Learning rate = 1e-3  |Learning rate = 1e-4 
+Zoom range = 0   &emsp;  &ensp;   |Zoom range = 0    &emsp;  &ensp; |Zoom range = 0.3  |Zoom range = 0    &emsp;  &ensp; 
+
   
 Fruits360 -> Quality  
 Batch size = 16   &emsp; &emsp;    |Batch size = 16    &emsp; &emsp;  |Batch size = 16    &emsp; &ensp;   |Batch size = 16  
 Learning rate = 1e-3   |Learning rate = 1e-3 |Learning rate = 1e-3  |Learning rate = 1e-4
-Shear range = 0  &emsp; &ensp;     |Shear range = 0.3  &emsp; &ensp;  |Shear range = 0  |Shear range = 0   &emsp; &ensp;   
 Zoom range = 0     &emsp; &ensp;   |Zoom range = 0   &emsp; &ensp;    |Zoom range = 0.3  |Zoom range = 0    &emsp; &ensp;   
   
   
 VGG-16 (otränat) -> Quality  
 Batch size = 16   &emsp; &emsp;    |Batch size = 16    &emsp; &ensp;   |Batch size = 16  |Batch size = 16    &emsp; &emsp;  
 Learning rate = 1e-3  |Learning rate = 1e-3 |Learning rate = 1e-3  |Learning rate = 1e-4 
-Shear range = 0  &emsp; &ensp;     |Shear range = 0.3  &emsp; &ensp;  |Shear range = 0  |Shear range = 0   &emsp; &ensp;   
 Zoom range = 0     &emsp; &ensp;   |Zoom range = 0   &emsp; &ensp;    |Zoom range = 0.3  |Zoom range = 0    &emsp; &ensp;   
 
 
