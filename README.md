@@ -12,6 +12,7 @@ ImageNet -> Quality
 Batch size = 16 &emsp; &emsp;|Batch size = 16 &emsp; &emsp; |Batch size = 16  &emsp; &emsp; |Batch size = 16  
 Learning rate = 1e-3  |Learning rate = 1e-3 &nbsp; |Learning rate = 1e-3  |Learning rate = 1e-4  
 Zoom range = 0   &emsp;  &ensp;   |Zoom range = 0    &emsp;  &ensp; |Zoom range = 0.3  |Zoom range = 0    &emsp;  &ensp; 
+________________________________________________________________________________________________________________________
 
   
 Fruits360 -> Quality  
