@@ -7,24 +7,23 @@ Jag föreslår att vi jämför transfer learning från enbart ImageNet (ej fruit
 Jag tycker även att vi inte bör använda rotation på quality datasetet eftersom det redan är roterade och translaterade bilder i det.
 
 Markera med en "✓" under det ni kör/kört.
-
+  
+På alla:  
+Batch size=16, Vertical+Horizontal flip, Rotation=0, Adam
+  
 ImageNet -> Quality  
-Batch size = 16 &emsp; &emsp; |Batch size = 16  &emsp; &emsp; |Batch size = 16 &emsp; &emsp; |Batch size = 16  
 Learning rate = 1e-3 &nbsp; |Learning rate = 1e-3  |Learning rate = 1e-4  |Learning rate = 1e-4  
 Zoom range = 0    &emsp;  &ensp; |Zoom range = 0.3  &emsp;  &ensp; |Zoom range = 0  &emsp;  &ensp; |Zoom range = 0.3
-________________________________________________________________________________________________________________________
-
+  
   
 Fruits360 -> Quality  
-Batch size = 16   &emsp; &emsp;    |Batch size = 16    &emsp; &emsp;  |Batch size = 16    &emsp; &ensp;   |Batch size = 16  
-Learning rate = 1e-3   |Learning rate = 1e-3 |Learning rate = 1e-3  |Learning rate = 1e-4  
-Zoom range = 0     &emsp; &ensp;   |Zoom range = 0   &emsp; &ensp;    |Zoom range = 0.3     &emsp; &ensp;   |Zoom range = 0 
+Learning rate = 1e-3 &nbsp; |Learning rate = 1e-3  |Learning rate = 1e-4  |Learning rate = 1e-4  
+Zoom range = 0    &emsp;  &ensp; |Zoom range = 0.3  &emsp;  &ensp; |Zoom range = 0  &emsp;  &ensp; |Zoom range = 0.3
   
   
 VGG-16 (otränat) -> Quality  
-Batch size = 16   &emsp; &emsp;    |Batch size = 16    &emsp; &ensp;   |Batch size = 16   &emsp; &emsp;  |Batch size = 16  
-Learning rate = 1e-3  |Learning rate = 1e-3 |Learning rate = 1e-3  |Learning rate = 1e-4  
-Zoom range = 0     &emsp; &ensp;   |Zoom range = 0   &emsp; &ensp;    |Zoom range = 0.3  &emsp; &ensp;|Zoom range = 0  
+Learning rate = 1e-3 &nbsp; |Learning rate = 1e-3  |Learning rate = 1e-4  |Learning rate = 1e-4  
+Zoom range = 0    &emsp;  &ensp; |Zoom range = 0.3  &emsp;  &ensp; |Zoom range = 0  &emsp;  &ensp; |Zoom range = 0.3
 
 
 Om vi hinner klart dessa så kan vi fortsätta med mer kombinationer.
