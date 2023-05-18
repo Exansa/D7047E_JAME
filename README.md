@@ -19,7 +19,7 @@ Zoom range = 0    &emsp;  &ensp; |Zoom range = 0.3  &emsp;  &ensp; |Zoom range =
 VGG-16 (otränat) + Fruits360 -> Quality  
 Learning rate = 1e-3 &nbsp; |Learning rate = 1e-3  |Learning rate = 1e-4  |Learning rate = 1e-4  
 Zoom range = 0    &emsp;  &ensp; |Zoom range = 0.3  &emsp;  &ensp; |Zoom range = 0  &emsp;  &ensp; |Zoom range = 0.3  
-  ✓ &emsp;  &ensp; ✓
+  ✓ &emsp;  &ensp; &emsp; &emsp; &emsp; &emsp; ✓
   
 VGG-16 (otränat) + Quality  
 Learning rate = 1e-3 &nbsp; |Learning rate = 1e-3  |Learning rate = 1e-4  |Learning rate = 1e-4  
