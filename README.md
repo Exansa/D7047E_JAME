@@ -19,13 +19,13 @@ Zoom range = 0    &emsp;  &ensp; |Zoom range = 0.3  &emsp;  &ensp; |Zoom range =
 VGG-16 (otränat) + Fruits360 -> Quality  
 Learning rate = 1e-3 &nbsp; |Learning rate = 1e-3  |Learning rate = 1e-4  |Learning rate = 1e-4  
 Zoom range = 0    &emsp;  &ensp; |Zoom range = 0.3  &emsp;  &ensp; |Zoom range = 0  &emsp;  &ensp; |Zoom range = 0.3  
-✓valAcc:0.5316 &emsp;&emsp;&emsp;&emsp;✓ valAcc: 0.1822 &emsp;&emsp;&emsp;&emsp;✓ valAcc: 0.5574&emsp;&emsp;&emsp;&emsp;✓
+✓valAcc:0.5316 &emsp;&emsp;&emsp;&emsp;✓ valAcc: 0.1822 &emsp;&emsp;&emsp;&emsp;✓ valAcc: 0.5574&emsp;&emsp;&emsp;&emsp;✓ valAcc: 0.5972
 
   
 VGG-16 (otränat) + Quality  
 Learning rate = 1e-3 &nbsp; |Learning rate = 1e-3  |Learning rate = 1e-4  |Learning rate = 1e-4  
 Zoom range = 0    &emsp;  &ensp; |Zoom range = 0.3  &emsp;  &ensp; |Zoom range = 0  &emsp;  &ensp; |Zoom range = 0.3  
-  
+ ✓
   
 Om vi hinner klart dessa så kan vi fortsätta med mer kombinationer.
 
